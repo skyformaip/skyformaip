@@ -20,7 +20,7 @@ SkyForm AIP具有以下功能：
 [稳定版](http://skyformaip.com/skyformaip-9.22.1.tar.gz)
 
 # 文档
-[wiko](https://github.com/skyformaip/skyformaip/wiki)
+[wiki](https://github.com/skyformaip/skyformaip/wiki)
 
 # 许可证
 - [天云融创软件许可证](https://github.com/skyformaip/skyformaip/blob/main/license.md)
