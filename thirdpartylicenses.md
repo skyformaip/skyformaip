@@ -1,0 +1,4 @@
+- [The 3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
+- [The MIT License](https://mit-license.org/)
+- [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0)
+- [GNU General Public License v2](https://www.gnu.org/licenses/gpl-2.0.en.html)
