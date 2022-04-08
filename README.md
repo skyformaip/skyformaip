@@ -50,8 +50,8 @@ SkyForm AIP具有以下主要功能：
 [稳定版](http://skyformaip.com/skyformaip-9.22.1.tar.gz)
 
 # 文档
-[快速安装指南](https://github.com/skyformaip/skyformaip/blob/main/INSTALL.md)
-[wiki](https://github.com/skyformaip/skyformaip/wiki)
+- [快速安装指南](https://github.com/skyformaip/skyformaip/blob/main/INSTALL.md)
+- [wiki](https://github.com/skyformaip/skyformaip/wiki)
 
 # 论坛
 [用户问题讨论、信息分享](https://github.com/skyformaip/skyformaip/discussions)
