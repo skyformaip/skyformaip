@@ -57,5 +57,5 @@ SkyForm AIP具有以下主要功能：
 [用户问题讨论、信息分享](https://github.com/skyformaip/skyformaip/discussions)
 
 # 许可证
-- [天云融创软件许可证](https://github.com/skyformaip/skyformaip/blob/main/license.md)
-- [第三方组件许可证](https://github.com/skyformaip/skyformaip/blob/main/thirdpartylicenses.md)
+- [天云融创软件许可](https://github.com/skyformaip/skyformaip/blob/main/license.md)
+- [第三方组件许可](https://github.com/skyformaip/skyformaip/blob/main/thirdpartylicenses.md)
