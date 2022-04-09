@@ -47,7 +47,7 @@ SkyForm AIP具有以下主要功能：
 | 软件获得                                  | 免费下载          | [联系天云融创软件](http://www.skycloudsoftware.com/index.php/contact)    |
 
 # 下载
-[稳定版](http://skyformaip.com/download)
+[稳定版](https://skyformaip.com/download)
 
 # 文档
 - [快速安装指南](https://github.com/skyformaip/skyformaip/blob/main/INSTALL.md)
